@@ -1,0 +1,490 @@
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Humanizer.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\veri tabanı okul program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\veri tabanı okul program\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CopyComplete
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\Desktop\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.exe
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.deps.json
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.runtimeconfig.json
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Humanizer.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.Form1.resources
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.csproj.CopyComplete
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\refint\WinFormsApp3.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.pdb
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\veri tabanı okul yarım program\WinFormsApp3\obj\Debug\net8.0-windows\ref\WinFormsApp3.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\veri tabanı okul yarım program\WinFormsApp3\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
